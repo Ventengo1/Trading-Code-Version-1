@@ -1,0 +1,1 @@
+This is the initial version of a code I have created which looks at the EMA and RSI and tells me to buy, sell, or hold a stock. I created many versiosn and spent lots of time debugging for this to work. Hope you like it.
